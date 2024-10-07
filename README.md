@@ -4,7 +4,7 @@
 ##### 系級：科技系三年級
 # 課程筆記區
 <a href="https://github.com/giraffe10884/DatabaseSystems/tree/main/hw01">作業一</a> 
-<a href="https://youtu.be/KiZ3A3n4I18">作業一影片</a>
+<a href="https://youtu.be/z6PJh2_bJps">作業一影片</a>
 <br>
 # 作業連結區
 # 專題連結區
